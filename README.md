@@ -1,9 +1,7 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# Bienvenido a nuestro repositorio!
 
 Luis Carlos Alegria Treviño: LuisCarlosAT
 
 Alberto Alejandro Rodríguez Pérez: a870124922
+
+En dicho repositorio se pueden encontrar nuestros entregables adjuntos.
